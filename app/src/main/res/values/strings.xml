@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SpaceInvaders</string>
+    <string name="title_activity_space_invaders">SpaceInvadersActivity</string>
 </resources>
